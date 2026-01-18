@@ -22,3 +22,24 @@ Oversimplification usually involves:
 ---
 
 ---
+
+### Counterintuitive
+
+**Meaning:**  
+Counterintuitive refers to something that goes **against common sense or initial expectations**, appearing wrong at first but often proving to be true after deeper thinking.
+
+**Urdu meaning (for clarity):**  
+بدیہی کے خلاف، عقلِ عام کے الٹ  
+(ایسی بات جو پہلی نظر میں غلط یا عجیب لگے)
+
+**When it is used:**  
+The term is used when:
+
+- an idea contradicts common belief
+- the outcome is surprising
+- Deeper reasoning is required to understand it
+
+**Example sentences:**
+
+- It is counterintuitive that lowering taxes can sometimes increase government revenue.
+- The idea that silence can strengthen communication is counterintuitive.

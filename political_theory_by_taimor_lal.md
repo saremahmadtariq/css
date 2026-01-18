@@ -8,7 +8,7 @@
 
 ---
 
-### 2. Political Theory vs Conspiracy Thinking
+### 2. Political Theory Vs Conspiracy Thinking
 
 - The study of political science helps challenge and critically examine conspiracy theories.
 - A conspiracy refers to doing something secretly without public knowledge, but not every political event is the result of a conspiracy.
@@ -28,7 +28,7 @@ Political events are often oversimplified or misrepresented as conspiracies, for
 
 ---
 
-### 4. Why These Explanations Are Problematic
+### 4. Why these Explanations Are Problematic
 
 - Such narratives ignore internal political, social, and economic factors.
 - They reduce complex historical processes to single-cause explanations.
@@ -39,13 +39,21 @@ Political events are often oversimplified or misrepresented as conspiracies, for
 
 ---
 
-### 5. Core Insight
+### 5. Why Conspiracy Theories Are Popular
 
-- Politics is far more complex than conspiracy theories.
-- Political theory equips students with tools to analyze power, ideology, and political behavior rationally.
+- There have been real conspiracies against the public interest in history.  
+  In societies where such conspiracies are frequent or widely believed to exist, **conspiracy theories tend to flourish**.
+
+- When **general trust and social confidence are weak**, people are more likely to explain events through conspiratorial thinking.
+
+- The **understanding of social sciences is relatively weak in Pakistan**, which limits the ability to analyze political and social issues critically.  
+  This lack of analytical tools contributes to the popularity of conspiracy theories.
+
+- The **security narrative is very strong in Pakistan**.  
+  Institutions responsible for security often interpret events through a conspiratorial lens, and since this narrative dominates mainstream media, such explanations spread easily.
+
+- Conspiracy theories are appealing because they are **counterintuitive** — they challenge common explanations and feel intellectually exciting.
+
+- They are reinforced by **popular culture**, especially through Hollywood and Bollywood films, which frequently dramatize secret plots and hidden powers.
 
 ---
-
-### Exam-Ready One-Liner
-
-> Political theory enables a systematic and critical understanding of political phenomena, moving beyond simplistic conspiracy-based explanations.
